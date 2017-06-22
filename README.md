@@ -11,8 +11,8 @@ A machine learning based text sentiment analyser tool.
 <li>Run the script</li>
 </ol>
 
-Example: Positive sentiment<br>
-<img src="http://i.imgur.com/DGZYz7N.png"></img>
+<b>Example: Positive sentiment</b><br>
+<center><img src="http://i.imgur.com/DGZYz7N.png"></img></center>
 
-Example: Negative sentiment<br>
-<img src="http://i.imgur.com/jemYcMB.png"></img>
+<b>Example: Negative sentiment</b><br>
+<center><img src="http://i.imgur.com/jemYcMB.png"></img></center>
