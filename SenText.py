@@ -7,9 +7,9 @@
 *Dataset used: ntltk.corpus.movie_reviews - Contains 1000 negative and 1000 positive movie reviews
 
 *Important note:
-If you want to pickle the trained classifier, uncomment the line 151 and run once. Once run, comment it again
-and uncomment line 78. Pickle loading may take longer time than training everytime. This happens because we're 
-loading the classifier from the hard disk. It totally depends on the disk speed. While the training depends on
+If you want to pickle the trained classifier, uncomment the line 159 and run once. Once run, comment it again
+and uncomment line 84. Pickle loading may take longer time than training everytime. This happens because we're 
+loading the classifier from the disk. It totally depends on the disk speed, while the training depends on
 the CPU Time.
 '''
 
