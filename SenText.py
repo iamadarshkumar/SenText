@@ -8,8 +8,8 @@
 
 *Important note:
 If you want to pickle the trained classifier, uncomment the line 159 and run once. Once run, comment it again
-and uncomment line 84. Pickle loading may take longer time than training everytime. This happens because we're 
-loading the classifier from the disk. It totally depends on the disk speed, while the training depends on
+and uncomment line 84. Pickle loading may take longer time than training everytime. This happens because the
+classifier is loaded from the disk. It totally depends on the disk speed, while the training depends on
 the CPU Time.
 '''
 
