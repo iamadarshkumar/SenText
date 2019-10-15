@@ -2,7 +2,7 @@
 A machine learning based text sentiment analyser tool.
 
 <ol>
-<li>Open a terminal.</li>
+<li>Open a terminal in linux.</li>
 <li>pip install nltk.</li>
 <li>Go to python shell.</li>
 <li>import nltk</li>
@@ -16,3 +16,5 @@ A machine learning based text sentiment analyser tool.
 
 <b>Example: Negative sentiment</b><br>
 <center><img src="http://i.imgur.com/jemYcMB.png"></img></center>
+
+Please contribute to open source and make this world a happy place. :)
